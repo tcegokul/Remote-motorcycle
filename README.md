@@ -25,3 +25,5 @@ This project is a modular remote control system designed to interface with a mot
 **Name:** Gokul Rajaram  
 **Email:** gokulrajarama@gmail.com  
 **Phone:** +91 9025938754
+
+![Project Banner](Remote_motorcycle.png)
