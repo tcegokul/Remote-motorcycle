@@ -1,0 +1,35 @@
+### Footprint positions - created on 2025-02-17T23:12:05+0530 ###
+### Printed by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                              PosX       PosY       Rot  Side
+C1        10uf            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      112.1175  -124.2400  -90.0000  top
+C2        10uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder       93.4675  -124.0900  -90.0000  top
+C3        22uf            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      125.4675  -121.8900  -90.0000  top
+C4        22uF            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      107.2875  -119.0300   90.0000  top
+D1        Power_LED       LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder    107.8950  -131.3100    0.0000  top
+F1        Fuse            Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   113.7925  -112.7900    0.0000  top
+F2        Fuse            Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   105.2125  -112.8800  180.0000  top
+J1        Conn_01x04_Pin  PinSocket_1x04_P2.54mm_Horizontal                104.7100   -99.0500    0.0000  top
+J2        Conn_01x02_Pin  TE_282837-2                                      124.0000  -100.5200    0.0000  top
+J4        Conn_01x04_Pin  PinSocket_1x04_P2.54mm_Vertical                  137.7750  -100.8550   90.0000  top
+R1        12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       79.7800  -137.9400    0.0000  top
+R2        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       85.7900  -138.0900    0.0000  top
+R3        12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       92.7500  -137.7400    0.0000  top
+R4        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       99.5100  -137.7400    0.0000  top
+R5        12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      107.6500  -137.5100    0.0000  top
+R6        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      114.5100  -137.5100    0.0000  top
+R7        12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      127.6100  -138.5600    0.0000  top
+R8        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      134.3200  -138.7100    0.0000  top
+R9        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      114.8100  -131.1900  180.0000  top
+R10       12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      146.3600  -138.4700  180.0000  top
+R11       470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      139.9000  -138.4700  180.0000  top
+SW1       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                      83.7500  -146.3850   90.0000  top
+SW2       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                      95.1700  -146.2850   90.0000  top
+SW3       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                     106.6900  -146.1850   90.0000  top
+SW4       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                     130.7300  -146.5850   90.0000  top
+SW5       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                     143.7500  -146.6850   90.0000  top
+U1        ESP32-WROOM-32  ESP32-WROOM-32                                   146.3700  -123.1500  -90.0000  top
+U2        AMS1117-3.3     SOT-223-3_TabPin2                                118.4400  -120.8500    0.0000  top
+U3        AMS1117-5.0     SOT-223-3_TabPin2                                100.0800  -120.3100    0.0000  top
+## End

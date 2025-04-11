@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "282837-2")(type "KiCad")(uri "D:/MIcrochip/PCB_designing/MCU_motorcycle/Symbols&footprintd/282837-2")(options "")(descr ""))
+  (lib (name "PPTC042LFBN_RC")(type "KiCad")(uri "${KIPRJMOD}/symbols & footprints/PPTC042LFBN_RC")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+### Footprint positions - created on 2025-02-17T23:12:05+0530 ###
+### Printed by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                      PosX       PosY       Rot  Side
+J3        PPTC042LFBN-RC  SULLINS_PPTC042LFBN-RC    80.0300  -122.0100   90.0000  bottom
+## End
