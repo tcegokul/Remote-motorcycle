@@ -27,5 +27,5 @@ This project is a modular remote control system designed to interface with a mot
 **Phone:** +91 9025938754
 
 ![Project Banner](Remote_motorcycle.png)
-![Project Banner](3d_remote cycle.png)
+
 
